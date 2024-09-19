@@ -8,3 +8,4 @@ spacy
 networkx
 unidecode
 scipy
+wordcloud
