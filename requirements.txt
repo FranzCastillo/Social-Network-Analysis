@@ -11,3 +11,4 @@ scipy
 wordcloud
 transformers
 torch
+scikit-learn
