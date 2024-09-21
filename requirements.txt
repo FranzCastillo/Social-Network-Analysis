@@ -9,3 +9,5 @@ networkx
 unidecode
 scipy
 wordcloud
+transformers
+torch
